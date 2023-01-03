@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.Trendyol.runners.FailedTestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.108 s <<< FAILURE! - in com.Trendyol.runners.FailedTestRunner
+com.Trendyol.runners.FailedTestRunner.initializationError  Time elapsed: 0.005 s  <<< ERROR!
+io.cucumber.core.exception.CucumberException: Failed to parse 'target\rerun.txt'
+Caused by: java.nio.file.NoSuchFileException: target\rerun.txt
+

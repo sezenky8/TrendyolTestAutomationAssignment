@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: com.Trendyol.runners.Runner
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 69.856 s <<< FAILURE! - in com.Trendyol.runners.Runner
+Testing e2e scenario from searching a product until checkout.The user should be able to search for an item then add it to the cart and proceed checkout  Time elapsed: 16.81 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='add-to-basket-button-text'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-4V2V1EA', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Sezen\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53539/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 75feef84d8252de47e1798a8ade910ce
+
+Testing e2e scenario from searching a product until checkout.The user should be able to search for an item then add it to the cart within search result  Time elapsed: 7.26 s  <<< ERROR!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <div class="add-to-bs-tx">...</div> is not clickable at point (1447, 656). Other element would receive the click: <button class="add-to-basket-button">...</button>
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-4V2V1EA', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a9d3f38b4692f0ad72c7045e07fe1649, clickElement {id=caf3c36c-d295-4248-987a-995b47ac0812}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Sezen\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53667}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53667/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (a9d3f38b4692f0ad72c7045e07fe1649)] -> xpath: //div[@class='add-to-bs-tx']]
+Session ID: a9d3f38b4692f0ad72c7045e07fe1649
+

@@ -1,0 +1,15 @@
+com\Trendyol\pages\LoginPage.class
+com\Trendyol\utilities\ApiUtils.class
+com\Trendyol\step_definitions\LoginStepDefinitions.class
+com\Trendyol\pojos\Rating.class
+com\Trendyol\utilities\Driver.class
+com\Trendyol\utilities\BrowserUtils.class
+com\Trendyol\step_definitions\E2EStepDefinitions.class
+com\Trendyol\step_definitions\ApiStepDefinitons.class
+com\Trendyol\pojos\Root.class
+com\Trendyol\runners\Runner.class
+com\Trendyol\step_definitions\Hooks.class
+com\Trendyol\utilities\BrowserUtils$1.class
+com\Trendyol\utilities\ConfigurationReader.class
+com\Trendyol\pages\HomePage.class
+com\Trendyol\runners\FailedTestRunner.class
