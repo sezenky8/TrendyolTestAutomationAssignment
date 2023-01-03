@@ -12,6 +12,5 @@ public class HomePage {
     public static final By sepetim = By.xpath("//p[normalize-space()='Sepetim']");
     public static final By sepetiOnayla = By.xpath("//div[@class='pb-summary-approve']");
     public static final By randomAddToBasket = By.xpath("//div[@class='add-to-bs-tx']");
-
     public static final By scrollToUp = By.xpath("//div[@class='scroll-to-up']");
 }
