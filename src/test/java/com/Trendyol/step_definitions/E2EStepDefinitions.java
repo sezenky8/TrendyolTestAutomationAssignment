@@ -5,16 +5,12 @@ import com.Trendyol.pages.HomePage;
 import com.Trendyol.pages.LoginPage;
 import com.Trendyol.utilities.BrowserUtils;
 import com.Trendyol.utilities.ConfigurationReader;
-import com.Trendyol.utilities.Driver;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
 import org.junit.Assert;
-import org.openqa.selenium.Keys;
 
-import java.util.Random;
 
 
 public class E2EStepDefinitions extends BrowserUtils {
@@ -45,23 +41,14 @@ public class E2EStepDefinitions extends BrowserUtils {
         click(HomePage.sepetiOnayla);
     }
 
-//    @Then("The user should see product detail page with the random product name")
-//    public void theUserShouldSeeProductDetailPageWithTheRandomProductName() {
-//        String expected=getRandomProductName();
-//        String actual= getText(HomePage.randomProductNameonProductDetailPage);
-//        System.out.println(expected);
-//        System.out.println(actual);
-//        Assert.assertEquals(expected,actual);
-//        Logger.info("PDP assertion is successful");
-//    }
-
 
     @And("The user clicks Sepete Ekle button on a random product")
-    public void theUserClicksSepeteEkleButtonOnARandomProduct() {randomSepeteEkleSelector(HomePage.randomAddToBasket);
+    public void theUserClicksSepeteEkleButtonOnARandomProduct() {
+        randomSepeteEkleSelector(HomePage.randomAddToBasket);
         waitUntilElementVisible(HomePage.randomAddToBasket);
         click(HomePage.randomAddToBasket);
 
-}
+    }
 
     @Then("The user should be redirected to the Login Page")
     public void theUserShouldBeRedirectedToTheLoginPage() {

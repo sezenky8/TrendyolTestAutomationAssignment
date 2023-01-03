@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         plugin = {"json:target/cucumber.json",
                 "html:target/default-html-reports",
                 "rerun:target/rerun.txt"},
-        features = "src/test/resources/features/E2E.feature",
+        features = "src/test/resources/features",
         glue = "com/Trendyol/step_definitions",
         dryRun = false
 )

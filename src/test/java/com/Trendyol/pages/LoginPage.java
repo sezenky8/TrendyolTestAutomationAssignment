@@ -15,9 +15,7 @@ public class LoginPage {
     public static final By googleCredentialBox = By.xpath("//input[@id='identifierId']");
     public static final By googleWarningText = By.xpath("//div[text()='Google Hesabınız bulunamadı']");
     public static final By googleNextButton = By.xpath("//span[contains(text(),'İleri')]");
-
     public static final By passwordWarningText = By.xpath("//span[contains(text(),'Lütfen şifrenizi giriniz')]");
-
     public static final By emailOrPasswordWarningText = By.xpath("//span[contains(text(),'E-posta adresiniz ve/veya şifreniz hatalı')]");
 
 

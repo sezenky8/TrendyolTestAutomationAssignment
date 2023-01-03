@@ -3,7 +3,6 @@ package com.Trendyol.step_definitions;
 import com.Trendyol.pages.LoginPage;
 import com.Trendyol.utilities.BrowserUtils;
 import com.Trendyol.utilities.ConfigurationReader;
-import com.Trendyol.utilities.Driver;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import io.cucumber.java.en.And;
@@ -11,7 +10,6 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
-import org.openqa.selenium.Keys;
 
 
 public class LoginStepDefinitions extends BrowserUtils {

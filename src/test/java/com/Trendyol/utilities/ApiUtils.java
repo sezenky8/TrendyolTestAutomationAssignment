@@ -4,12 +4,12 @@ import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
-public class ApiUtils {
+public class ApiUtils extends BrowserUtils {
     Response response;
-    public Response retrieveDetailsOfBooking() {
+    public Response retrieveTitleValue(String URL) {
         response = RestAssured.given()
                 .accept(ContentType.JSON)
-                .get("https://www.omdbapi.com/?s=Batman&page=2&apikey="+ConfigurationReader.get("apikey"));
+                .get(URL);
         return response;
     }
 }

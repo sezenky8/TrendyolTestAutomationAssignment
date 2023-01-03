@@ -17,13 +17,6 @@ public class BrowserUtils {
     String randomProductName;
     String randomAddToBasket;
     int randomNumber;
-    public String getRandomProductName(){
-        return randomProductName;
-    }
-
-    public String randomAddToBasket(){
-        return randomAddToBasket;
-    }
     static Logger Logger= LogManager.getLogger(BrowserUtils.class);
 
     public void openMainURL(String string) {
@@ -60,14 +53,6 @@ public class BrowserUtils {
         int randomNumber = (int) (Math.random() * (max - min + 1) + min);
         Logger.info("Random number has been generated");
         return randomNumber;
-    }
-
-    public static void waitFor(int seconds) {
-        try {
-            Thread.sleep(seconds * 1000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
     }
 
     public static void waitForPageToLoad(long timeOutInSeconds) {

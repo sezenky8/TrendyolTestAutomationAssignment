@@ -12,7 +12,6 @@ Feature: Testing e2e scenario from searching a product until checkout
   Scenario: The user should be able to search for an item then add it to the cart and proceed checkout
     When The user clicks searchBox and search for a random product
     And The user clicks a random product
-#    Then The user should see product detail page with the random product name
     And The user clicks Sepete Ekle button
     And The user clicks Sepetim button and clicks Sepeti Onayla button on Cart Page
 

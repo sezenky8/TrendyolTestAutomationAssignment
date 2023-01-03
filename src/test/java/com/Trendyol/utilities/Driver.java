@@ -10,7 +10,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.safari.SafariDriver;
-import org.openqa.selenium.JavascriptExecutor;
 
 public class Driver {
     private Driver() {
@@ -73,11 +72,6 @@ public class Driver {
             driver.quit();
             driver = null;
         }
-    }
-
-    public static void ScrollByPixel () {
-        JavascriptExecutor jse = (JavascriptExecutor) driver;
-        jse.executeScript("window.scrollBy(0,-250)");
     }
 
 }

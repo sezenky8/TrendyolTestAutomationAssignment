@@ -3599,3 +3599,1455 @@
 2023-01-01 12:15:41,783 INFO  - Waiting for the element to be visible  
 2023-01-01 12:15:51,981 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
 2023-01-01 12:15:51,987 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 12:42:49,985 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 12:42:52,253 INFO  - URL is opened  
+2023-01-01 12:42:52,255 INFO  - Waiting for the element to be visible  
+2023-01-01 12:42:52,351 INFO  - Successfully clicked the element  
+2023-01-01 12:42:52,351 INFO  - Waiting for the element to be visible  
+2023-01-01 12:42:52,424 INFO  - Successfully clicked the element  
+2023-01-01 12:42:52,425 INFO  - Waiting for the element to be visible  
+2023-01-01 12:42:52,530 INFO  - Successfully sent the word  
+2023-01-01 12:42:52,530 INFO  - Waiting for the element to be visible  
+2023-01-01 12:42:58,007 INFO  - Successfully clicked the element  
+2023-01-01 12:42:58,034 INFO  - Random number has been generated  
+2023-01-01 12:42:58,165 INFO  - Waiting for the element to be visible  
+2023-01-01 12:43:08,364 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-01 12:43:08,369 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 13:08:57,464 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 13:08:59,785 INFO  - URL is opened  
+2023-01-01 13:08:59,790 INFO  - Waiting for the element to be visible  
+2023-01-01 13:08:59,884 INFO  - Successfully clicked the element  
+2023-01-01 13:08:59,884 INFO  - Waiting for the element to be visible  
+2023-01-01 13:08:59,960 INFO  - Successfully clicked the element  
+2023-01-01 13:08:59,961 INFO  - Waiting for the element to be visible  
+2023-01-01 13:09:00,075 INFO  - Successfully sent the word  
+2023-01-01 13:09:00,075 INFO  - Waiting for the element to be visible  
+2023-01-01 13:09:02,195 INFO  - Successfully clicked the element  
+2023-01-01 13:09:02,213 INFO  - Random number has been generated  
+2023-01-01 13:09:03,439 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-01 13:09:03,444 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 13:09:12,453 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 13:09:14,643 INFO  - URL is opened  
+2023-01-01 13:09:14,649 INFO  - Waiting for the element to be visible  
+2023-01-01 13:09:14,739 INFO  - Successfully clicked the element  
+2023-01-01 13:09:14,739 INFO  - Waiting for the element to be visible  
+2023-01-01 13:09:14,821 INFO  - Successfully clicked the element  
+2023-01-01 13:09:14,824 INFO  - Waiting for the element to be visible  
+2023-01-01 13:09:14,931 INFO  - Successfully sent the word  
+2023-01-01 13:09:14,932 INFO  - Waiting for the element to be visible  
+2023-01-01 13:09:17,005 INFO  - Successfully clicked the element  
+2023-01-01 13:09:17,034 INFO  - Random number has been generated  
+2023-01-01 13:09:18,265 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-01 13:09:18,270 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 13:10:14,449 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 13:10:17,081 INFO  - URL is opened  
+2023-01-01 13:10:17,086 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:17,180 INFO  - Successfully clicked the element  
+2023-01-01 13:10:17,180 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:17,256 INFO  - Successfully clicked the element  
+2023-01-01 13:10:17,257 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:17,371 INFO  - Successfully sent the word  
+2023-01-01 13:10:17,371 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:19,439 INFO  - Successfully clicked the element  
+2023-01-01 13:10:19,456 INFO  - Random number has been generated  
+2023-01-01 13:10:19,525 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:20,255 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:21,659 INFO  - Successfully clicked the element  
+2023-01-01 13:10:21,662 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:32,111 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-01 13:10:32,117 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 13:10:41,678 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 13:10:44,052 INFO  - URL is opened  
+2023-01-01 13:10:44,057 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:44,145 INFO  - Successfully clicked the element  
+2023-01-01 13:10:44,146 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:44,229 INFO  - Successfully clicked the element  
+2023-01-01 13:10:44,231 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:44,340 INFO  - Successfully sent the word  
+2023-01-01 13:10:44,341 INFO  - Waiting for the element to be visible  
+2023-01-01 13:10:46,280 INFO  - Successfully clicked the element  
+2023-01-01 13:10:46,295 INFO  - Random number has been generated  
+2023-01-01 13:10:47,518 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-01 13:10:47,523 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 13:11:38,758 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 13:11:41,022 INFO  - URL is opened  
+2023-01-01 13:11:41,027 INFO  - Waiting for the element to be visible  
+2023-01-01 13:11:41,119 INFO  - Successfully clicked the element  
+2023-01-01 13:11:41,119 INFO  - Waiting for the element to be visible  
+2023-01-01 13:11:41,194 INFO  - Successfully clicked the element  
+2023-01-01 13:11:41,196 INFO  - Waiting for the element to be visible  
+2023-01-01 13:11:41,299 INFO  - Successfully sent the word  
+2023-01-01 13:11:41,299 INFO  - Waiting for the element to be visible  
+2023-01-01 13:11:43,458 INFO  - Successfully clicked the element  
+2023-01-01 13:11:43,473 INFO  - Random number has been generated  
+2023-01-01 13:11:43,549 INFO  - Waiting for the element to be visible  
+2023-01-01 13:11:53,831 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-01 13:11:53,836 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 13:11:59,986 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 13:12:02,116 INFO  - URL is opened  
+2023-01-01 13:12:02,121 INFO  - Waiting for the element to be visible  
+2023-01-01 13:12:02,213 INFO  - Successfully clicked the element  
+2023-01-01 13:12:02,213 INFO  - Waiting for the element to be visible  
+2023-01-01 13:12:02,286 INFO  - Successfully clicked the element  
+2023-01-01 13:12:02,288 INFO  - Waiting for the element to be visible  
+2023-01-01 13:12:02,404 INFO  - Successfully sent the word  
+2023-01-01 13:12:02,405 INFO  - Waiting for the element to be visible  
+2023-01-01 13:12:04,479 INFO  - Successfully clicked the element  
+2023-01-01 13:12:04,497 INFO  - Random number has been generated  
+2023-01-01 13:12:04,592 INFO  - Waiting for the element to be visible  
+2023-01-01 13:12:21,261 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 13:12:23,771 INFO  - URL is opened  
+2023-01-01 13:12:23,776 INFO  - Waiting for the element to be visible  
+2023-01-01 13:12:23,867 INFO  - Successfully clicked the element  
+2023-01-01 13:12:23,867 INFO  - Waiting for the element to be visible  
+2023-01-01 13:12:23,941 INFO  - Successfully clicked the element  
+2023-01-01 13:12:23,943 INFO  - Waiting for the element to be visible  
+2023-01-01 13:12:24,045 INFO  - Successfully sent the word  
+2023-01-01 13:12:24,045 INFO  - Waiting for the element to be visible  
+2023-01-01 13:12:26,167 INFO  - Successfully clicked the element  
+2023-01-01 13:12:26,182 INFO  - Random number has been generated  
+2023-01-01 13:12:27,397 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-01 13:12:27,402 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 13:12:35,060 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 13:13:00,821 INFO  - URL is opened  
+2023-01-01 13:13:00,826 INFO  - Waiting for the element to be visible  
+2023-01-01 13:13:00,916 INFO  - Successfully clicked the element  
+2023-01-01 13:13:00,917 INFO  - Waiting for the element to be visible  
+2023-01-01 13:13:00,995 INFO  - Successfully clicked the element  
+2023-01-01 13:13:00,997 INFO  - Waiting for the element to be visible  
+2023-01-01 13:13:01,115 INFO  - Successfully sent the word  
+2023-01-01 13:13:01,115 INFO  - Waiting for the element to be visible  
+2023-01-01 13:13:09,363 INFO  - Successfully clicked the element  
+2023-01-01 13:13:09,384 INFO  - Random number has been generated  
+2023-01-01 13:13:09,479 INFO  - Waiting for the element to be visible  
+2023-01-01 13:13:20,137 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-01 13:13:20,144 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 13:53:27,617 INFO  - The scenario 'asd' started to run  
+2023-01-01 13:53:27,629 INFO  - The scenario 'asd' is UNDEFINED   
+2023-01-01 13:53:59,330 INFO  - The scenario 'asd' started to run  
+2023-01-01 13:54:00,392 INFO  - The scenario 'asd' is failed   
+2023-01-01 13:54:00,397 INFO  - The scenario 'asd' is FAILED   
+2023-01-01 13:54:54,100 INFO  - The scenario 'asd' started to run  
+2023-01-01 13:54:55,175 INFO  - The scenario 'asd' is failed   
+2023-01-01 13:54:55,180 INFO  - The scenario 'asd' is FAILED   
+2023-01-01 13:57:23,422 INFO  - The scenario 'asd' started to run  
+2023-01-01 13:57:24,514 INFO  - The scenario 'asd' is failed   
+2023-01-01 13:57:24,519 INFO  - The scenario 'asd' is FAILED   
+2023-01-01 14:01:57,197 INFO  - The scenario 'asd' started to run  
+2023-01-01 14:01:58,429 INFO  - The scenario 'asd' is failed   
+2023-01-01 14:01:58,435 INFO  - The scenario 'asd' is FAILED   
+2023-01-01 16:31:14,101 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-01 16:31:17,176 INFO  - URL is opened  
+2023-01-01 16:31:17,181 INFO  - Waiting for the element to be visible  
+2023-01-01 16:31:17,275 INFO  - Successfully clicked the element  
+2023-01-01 16:31:17,276 INFO  - Waiting for the element to be visible  
+2023-01-01 16:31:17,369 INFO  - Successfully clicked the element  
+2023-01-01 16:31:17,371 INFO  - Waiting for the element to be visible  
+2023-01-01 16:31:17,499 INFO  - Successfully sent the word  
+2023-01-01 16:31:17,499 INFO  - Waiting for the element to be visible  
+2023-01-01 16:31:19,615 INFO  - Successfully clicked the element  
+2023-01-01 16:31:19,634 INFO  - Random number has been generated  
+2023-01-01 16:31:20,936 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-01 16:31:20,947 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-01 16:31:27,491 INFO  - The scenario 'asd' started to run  
+2023-01-01 16:31:28,550 INFO  - The scenario 'asd' is failed   
+2023-01-01 16:31:28,555 INFO  - The scenario 'asd' is FAILED   
+2023-01-01 16:31:45,270 INFO  - The scenario 'asd' started to run  
+2023-01-01 16:31:46,128 INFO  - The scenario 'asd' is PASSED   
+2023-01-01 16:32:40,077 INFO  - The scenario 'asd' started to run  
+2023-01-01 16:32:41,002 INFO  - The scenario 'asd' is PASSED   
+2023-01-01 16:42:56,458 INFO  - The scenario 'asd' started to run  
+2023-01-01 16:42:57,633 INFO  - The scenario 'asd' is PASSED   
+2023-01-01 16:43:16,918 INFO  - The scenario 'asd' started to run  
+2023-01-01 16:43:18,083 INFO  - The scenario 'asd' is PASSED   
+2023-01-01 16:49:27,374 INFO  - The scenario 'asd' started to run  
+2023-01-01 16:49:27,903 INFO  - The scenario 'asd' is failed   
+2023-01-01 16:49:27,909 INFO  - The scenario 'asd' is FAILED   
+2023-01-01 16:50:06,825 INFO  - The scenario 'asd' started to run  
+2023-01-01 16:50:07,932 INFO  - The scenario 'asd' is PASSED   
+2023-01-01 16:58:08,262 INFO  - The scenario 'asd' started to run  
+2023-01-01 16:58:10,611 INFO  - URL is opened  
+2023-01-01 16:58:10,616 INFO  - Waiting for the element to be visible  
+2023-01-01 16:58:10,709 INFO  - Successfully clicked the element  
+2023-01-01 16:58:10,710 INFO  - Waiting for the element to be visible  
+2023-01-01 16:58:10,787 INFO  - Successfully clicked the element  
+2023-01-01 16:58:11,962 INFO  - The scenario 'asd' is UNDEFINED   
+2023-01-01 16:59:51,761 INFO  - The scenario 'asd' started to run  
+2023-01-01 16:59:54,252 INFO  - URL is opened  
+2023-01-01 16:59:54,257 INFO  - Waiting for the element to be visible  
+2023-01-01 16:59:54,345 INFO  - Successfully clicked the element  
+2023-01-01 16:59:54,345 INFO  - Waiting for the element to be visible  
+2023-01-01 16:59:54,421 INFO  - Successfully clicked the element  
+2023-01-01 16:59:55,619 INFO  - Waiting for the element to be visible  
+2023-01-01 16:59:55,731 INFO  - Successfully sent the word  
+2023-01-01 16:59:55,731 INFO  - Waiting for the element to be visible  
+2023-01-01 16:59:57,800 INFO  - Successfully clicked the element  
+2023-01-01 16:59:57,808 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 17:35:01,549 INFO  - The scenario 'asd' started to run  
+2023-01-03 17:35:03,923 INFO  - URL is opened  
+2023-01-03 17:35:03,931 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:04,014 INFO  - Successfully clicked the element  
+2023-01-03 17:35:04,014 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:04,626 INFO  - Successfully clicked the element  
+2023-01-03 17:35:06,428 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:06,538 INFO  - Successfully sent the word  
+2023-01-03 17:35:06,538 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:08,344 INFO  - Successfully clicked the element  
+2023-01-03 17:35:08,353 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 17:35:09,218 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:35:11,836 INFO  - URL is opened  
+2023-01-03 17:35:11,836 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:11,957 INFO  - Successfully clicked the element  
+2023-01-03 17:35:11,957 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:12,051 INFO  - Successfully clicked the element  
+2023-01-03 17:35:12,052 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:13,749 INFO  - Successfully clicked the element  
+2023-01-03 17:35:13,749 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:13,905 INFO  - Successfully got the text of the element  
+2023-01-03 17:35:13,906 INFO  - Login page assertion is successful  
+2023-01-03 17:35:13,907 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:13,981 INFO  - Successfully sent the word  
+2023-01-03 17:35:13,982 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:14,048 INFO  - Successfully sent the word  
+2023-01-03 17:35:14,048 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:14,119 INFO  - Successfully clicked the element  
+2023-01-03 17:35:14,120 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:16,554 INFO  - Successfully got the text of the element  
+2023-01-03 17:35:16,555 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:35:16,555 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:35:17,491 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 17:35:19,396 INFO  - URL is opened  
+2023-01-03 17:35:19,396 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:19,487 INFO  - Successfully clicked the element  
+2023-01-03 17:35:19,487 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:20,576 INFO  - Successfully clicked the element  
+2023-01-03 17:35:20,576 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:20,671 INFO  - Successfully sent the word  
+2023-01-03 17:35:20,671 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:22,625 INFO  - Successfully clicked the element  
+2023-01-03 17:35:22,642 INFO  - Random number has been generated  
+2023-01-03 17:35:22,866 INFO  - Page is successfully loaded  
+2023-01-03 17:35:22,866 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:33,596 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is failed   
+2023-01-03 17:35:33,597 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is FAILED   
+2023-01-03 17:35:34,554 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-03 17:35:36,468 INFO  - URL is opened  
+2023-01-03 17:35:36,469 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:36,559 INFO  - Successfully clicked the element  
+2023-01-03 17:35:36,559 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:37,635 INFO  - Successfully clicked the element  
+2023-01-03 17:35:37,636 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:37,733 INFO  - Successfully sent the word  
+2023-01-03 17:35:37,733 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:40,906 INFO  - Successfully clicked the element  
+2023-01-03 17:35:40,923 INFO  - Random number has been generated  
+2023-01-03 17:35:42,115 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-03 17:35:42,115 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-03 17:35:43,050 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:35:46,032 INFO  - URL is opened  
+2023-01-03 17:35:46,033 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:46,121 INFO  - Successfully clicked the element  
+2023-01-03 17:35:46,122 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:47,205 INFO  - Successfully clicked the element  
+2023-01-03 17:35:47,205 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:49,393 INFO  - Successfully clicked the element  
+2023-01-03 17:35:49,393 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:49,422 INFO  - Successfully got the text of the element  
+2023-01-03 17:35:49,423 INFO  - Login page assertion is successful  
+2023-01-03 17:35:49,423 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:49,489 INFO  - Successfully sent the word  
+2023-01-03 17:35:49,489 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:49,554 INFO  - Successfully sent the word  
+2023-01-03 17:35:49,554 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:49,618 INFO  - Successfully clicked the element  
+2023-01-03 17:35:49,619 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:51,659 INFO  - Successfully got the text of the element  
+2023-01-03 17:35:51,659 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:35:51,660 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:35:52,477 INFO  - The scenario 'The user should not be able to login with wrong google credentials' started to run  
+2023-01-03 17:35:54,396 INFO  - URL is opened  
+2023-01-03 17:35:54,396 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:54,485 INFO  - Successfully clicked the element  
+2023-01-03 17:35:54,485 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:55,567 INFO  - Successfully clicked the element  
+2023-01-03 17:35:55,568 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:57,376 INFO  - Successfully clicked the element  
+2023-01-03 17:35:57,377 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:57,411 INFO  - Successfully got the text of the element  
+2023-01-03 17:35:57,411 INFO  - Login page assertion is successful  
+2023-01-03 17:35:57,411 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:58,893 INFO  - Successfully clicked the element  
+2023-01-03 17:35:58,913 INFO  - Page is successfully loaded  
+2023-01-03 17:35:58,913 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:59,040 INFO  - Successfully sent the word  
+2023-01-03 17:35:59,040 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:59,101 INFO  - Successfully clicked the element  
+2023-01-03 17:35:59,102 INFO  - Waiting for the element to be visible  
+2023-01-03 17:35:59,652 INFO  - Successfully got the text of the element  
+2023-01-03 17:35:59,652 INFO  - Google HesabÄ±nÄ±z bulunamadÄ± button text assertion is successful  
+2023-01-03 17:35:59,653 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is PASSED   
+2023-01-03 17:36:00,639 INFO  - The scenario 'The user should not be able to login with correct email and null password' started to run  
+2023-01-03 17:36:02,611 INFO  - URL is opened  
+2023-01-03 17:36:02,612 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:02,699 INFO  - Successfully clicked the element  
+2023-01-03 17:36:02,699 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:03,771 INFO  - Successfully clicked the element  
+2023-01-03 17:36:03,771 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:05,551 INFO  - Successfully clicked the element  
+2023-01-03 17:36:05,552 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:05,580 INFO  - Successfully got the text of the element  
+2023-01-03 17:36:05,580 INFO  - Login page assertion is successful  
+2023-01-03 17:36:05,581 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:05,659 INFO  - Successfully sent the word  
+2023-01-03 17:36:05,659 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:05,718 INFO  - Successfully clicked the element  
+2023-01-03 17:36:05,719 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:05,871 INFO  - Successfully got the text of the element  
+2023-01-03 17:36:05,871 INFO  - LÃ¼tfen ÅŸifrenizi giriniz. password text assertion is successful  
+2023-01-03 17:36:05,872 INFO  - The scenario 'The user should not be able to login with correct email and null password' is PASSED   
+2023-01-03 17:36:06,706 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' started to run  
+2023-01-03 17:36:08,681 INFO  - URL is opened  
+2023-01-03 17:36:08,681 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:08,766 INFO  - Successfully clicked the element  
+2023-01-03 17:36:08,767 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:09,854 INFO  - Successfully clicked the element  
+2023-01-03 17:36:09,854 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:11,619 INFO  - Successfully clicked the element  
+2023-01-03 17:36:11,620 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:11,651 INFO  - Successfully got the text of the element  
+2023-01-03 17:36:11,651 INFO  - Login page assertion is successful  
+2023-01-03 17:36:11,651 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:11,719 INFO  - Successfully sent the word  
+2023-01-03 17:36:11,719 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:11,886 INFO  - Successfully sent the word  
+2023-01-03 17:36:11,887 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:11,945 INFO  - Successfully clicked the element  
+2023-01-03 17:36:11,945 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:12,497 INFO  - Successfully got the text of the element  
+2023-01-03 17:36:12,497 INFO  - E-posta adresiniz ve/veya ÅŸifreniz hatalÄ±. email or password text assertion is successful  
+2023-01-03 17:36:12,498 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is PASSED   
+2023-01-03 17:36:57,378 INFO  - The scenario 'asd' started to run  
+2023-01-03 17:36:59,660 INFO  - URL is opened  
+2023-01-03 17:36:59,666 INFO  - Waiting for the element to be visible  
+2023-01-03 17:36:59,749 INFO  - Successfully clicked the element  
+2023-01-03 17:36:59,749 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:00,331 INFO  - Successfully clicked the element  
+2023-01-03 17:37:01,666 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:01,791 INFO  - Successfully sent the word  
+2023-01-03 17:37:01,791 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:03,585 INFO  - Successfully clicked the element  
+2023-01-03 17:37:03,594 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 17:37:04,452 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:37:06,409 INFO  - URL is opened  
+2023-01-03 17:37:06,409 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:06,499 INFO  - Successfully clicked the element  
+2023-01-03 17:37:06,499 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:07,591 INFO  - Successfully clicked the element  
+2023-01-03 17:37:07,592 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:09,328 INFO  - Successfully clicked the element  
+2023-01-03 17:37:09,328 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:19,689 INFO  - The scenario 'The user should be able to login with correct credentials' is failed   
+2023-01-03 17:37:19,689 INFO  - The scenario 'The user should be able to login with correct credentials' is FAILED   
+2023-01-03 17:37:20,520 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 17:37:22,475 INFO  - URL is opened  
+2023-01-03 17:37:22,475 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:22,565 INFO  - Successfully clicked the element  
+2023-01-03 17:37:22,565 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:23,648 INFO  - Successfully clicked the element  
+2023-01-03 17:37:23,649 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:23,750 INFO  - Successfully sent the word  
+2023-01-03 17:37:23,750 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:25,816 INFO  - Successfully clicked the element  
+2023-01-03 17:37:25,842 INFO  - Random number has been generated  
+2023-01-03 17:37:26,111 INFO  - Page is successfully loaded  
+2023-01-03 17:37:26,111 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:36,790 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is failed   
+2023-01-03 17:37:36,790 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is FAILED   
+2023-01-03 17:37:37,672 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-03 17:37:39,603 INFO  - URL is opened  
+2023-01-03 17:37:39,603 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:39,697 INFO  - Successfully clicked the element  
+2023-01-03 17:37:39,697 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:40,775 INFO  - Successfully clicked the element  
+2023-01-03 17:37:40,776 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:40,871 INFO  - Successfully sent the word  
+2023-01-03 17:37:40,871 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:42,776 INFO  - Successfully clicked the element  
+2023-01-03 17:37:42,802 INFO  - Random number has been generated  
+2023-01-03 17:37:42,993 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:53,602 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-03 17:37:53,602 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-03 17:37:54,406 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:37:56,259 INFO  - URL is opened  
+2023-01-03 17:37:56,259 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:56,345 INFO  - Successfully clicked the element  
+2023-01-03 17:37:56,346 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:57,436 INFO  - Successfully clicked the element  
+2023-01-03 17:37:57,436 INFO  - Waiting for the element to be visible  
+2023-01-03 17:37:59,199 INFO  - Successfully clicked the element  
+2023-01-03 17:37:59,200 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:09,537 INFO  - The scenario 'The user should be able to login with correct credentials' is failed   
+2023-01-03 17:38:09,537 INFO  - The scenario 'The user should be able to login with correct credentials' is FAILED   
+2023-01-03 17:38:10,375 INFO  - The scenario 'The user should not be able to login with wrong google credentials' started to run  
+2023-01-03 17:38:12,289 INFO  - URL is opened  
+2023-01-03 17:38:12,289 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:12,383 INFO  - Successfully clicked the element  
+2023-01-03 17:38:12,383 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:13,473 INFO  - Successfully clicked the element  
+2023-01-03 17:38:13,473 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:15,358 INFO  - Successfully clicked the element  
+2023-01-03 17:38:15,358 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:25,735 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is failed   
+2023-01-03 17:38:25,735 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is FAILED   
+2023-01-03 17:38:26,564 INFO  - The scenario 'The user should not be able to login with correct email and null password' started to run  
+2023-01-03 17:38:28,944 INFO  - URL is opened  
+2023-01-03 17:38:28,944 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:29,011 INFO  - Successfully clicked the element  
+2023-01-03 17:38:29,012 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:29,592 INFO  - Successfully clicked the element  
+2023-01-03 17:38:29,593 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:31,365 INFO  - Successfully clicked the element  
+2023-01-03 17:38:31,366 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:41,683 INFO  - The scenario 'The user should not be able to login with correct email and null password' is failed   
+2023-01-03 17:38:41,683 INFO  - The scenario 'The user should not be able to login with correct email and null password' is FAILED   
+2023-01-03 17:38:42,475 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' started to run  
+2023-01-03 17:38:44,735 INFO  - URL is opened  
+2023-01-03 17:38:44,735 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:44,803 INFO  - Successfully clicked the element  
+2023-01-03 17:38:44,803 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:45,404 INFO  - Successfully clicked the element  
+2023-01-03 17:38:45,404 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:47,045 INFO  - Successfully clicked the element  
+2023-01-03 17:38:47,045 INFO  - Waiting for the element to be visible  
+2023-01-03 17:38:57,356 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is failed   
+2023-01-03 17:38:57,357 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is FAILED   
+2023-01-03 17:40:59,100 INFO  - The scenario 'asd' started to run  
+2023-01-03 17:41:01,067 INFO  - URL is opened  
+2023-01-03 17:41:01,074 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:01,181 INFO  - Successfully clicked the element  
+2023-01-03 17:41:01,182 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:02,294 INFO  - Successfully clicked the element  
+2023-01-03 17:41:03,654 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:03,775 INFO  - Successfully sent the word  
+2023-01-03 17:41:03,776 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:05,663 INFO  - Successfully clicked the element  
+2023-01-03 17:41:05,672 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 17:41:06,494 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:41:08,387 INFO  - URL is opened  
+2023-01-03 17:41:08,387 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:08,481 INFO  - Successfully clicked the element  
+2023-01-03 17:41:08,481 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:09,577 INFO  - Successfully clicked the element  
+2023-01-03 17:41:09,578 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:11,436 INFO  - Successfully clicked the element  
+2023-01-03 17:41:11,437 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:11,471 INFO  - Successfully got the text of the element  
+2023-01-03 17:41:11,472 INFO  - Login page assertion is successful  
+2023-01-03 17:41:11,473 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:11,542 INFO  - Successfully sent the word  
+2023-01-03 17:41:11,542 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:11,730 INFO  - Successfully sent the word  
+2023-01-03 17:41:11,731 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:11,794 INFO  - Successfully clicked the element  
+2023-01-03 17:41:11,795 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:14,070 INFO  - Successfully got the text of the element  
+2023-01-03 17:41:14,071 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:41:14,071 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:41:14,945 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 17:41:16,799 INFO  - URL is opened  
+2023-01-03 17:41:16,799 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:16,890 INFO  - Successfully clicked the element  
+2023-01-03 17:41:16,890 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:17,980 INFO  - Successfully clicked the element  
+2023-01-03 17:41:17,981 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:18,087 INFO  - Successfully sent the word  
+2023-01-03 17:41:18,088 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:21,475 INFO  - Successfully clicked the element  
+2023-01-03 17:41:21,494 INFO  - Random number has been generated  
+2023-01-03 17:41:21,716 INFO  - Page is successfully loaded  
+2023-01-03 17:41:21,716 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:32,351 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is failed   
+2023-01-03 17:41:32,352 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is FAILED   
+2023-01-03 17:41:33,185 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-03 17:41:35,184 INFO  - URL is opened  
+2023-01-03 17:41:35,184 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:35,273 INFO  - Successfully clicked the element  
+2023-01-03 17:41:35,274 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:36,346 INFO  - Successfully clicked the element  
+2023-01-03 17:41:36,347 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:36,442 INFO  - Successfully sent the word  
+2023-01-03 17:41:36,443 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:38,254 INFO  - Successfully clicked the element  
+2023-01-03 17:41:38,284 INFO  - Random number has been generated  
+2023-01-03 17:41:39,540 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-03 17:41:39,540 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-03 17:41:40,366 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:41:42,220 INFO  - URL is opened  
+2023-01-03 17:41:42,220 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:42,309 INFO  - Successfully clicked the element  
+2023-01-03 17:41:42,310 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:43,387 INFO  - Successfully clicked the element  
+2023-01-03 17:41:43,387 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:45,141 INFO  - Successfully clicked the element  
+2023-01-03 17:41:45,142 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:45,172 INFO  - Successfully got the text of the element  
+2023-01-03 17:41:45,172 INFO  - Login page assertion is successful  
+2023-01-03 17:41:45,172 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:45,239 INFO  - Successfully sent the word  
+2023-01-03 17:41:45,239 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:45,303 INFO  - Successfully sent the word  
+2023-01-03 17:41:45,304 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:45,474 INFO  - Successfully clicked the element  
+2023-01-03 17:41:45,474 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:47,627 INFO  - Successfully got the text of the element  
+2023-01-03 17:41:47,627 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:41:47,628 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:41:48,442 INFO  - The scenario 'The user should not be able to login with wrong google credentials' started to run  
+2023-01-03 17:41:50,686 INFO  - URL is opened  
+2023-01-03 17:41:50,687 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:50,755 INFO  - Successfully clicked the element  
+2023-01-03 17:41:50,755 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:51,338 INFO  - Successfully clicked the element  
+2023-01-03 17:41:51,338 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:53,116 INFO  - Successfully clicked the element  
+2023-01-03 17:41:53,117 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:53,147 INFO  - Successfully got the text of the element  
+2023-01-03 17:41:53,147 INFO  - Login page assertion is successful  
+2023-01-03 17:41:53,147 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:54,163 INFO  - Successfully clicked the element  
+2023-01-03 17:41:54,169 INFO  - Page is successfully loaded  
+2023-01-03 17:41:54,169 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:54,323 INFO  - Successfully sent the word  
+2023-01-03 17:41:54,323 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:54,380 INFO  - Successfully clicked the element  
+2023-01-03 17:41:54,381 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:54,929 INFO  - Successfully got the text of the element  
+2023-01-03 17:41:54,929 INFO  - Google Hesabýnýz bulunamadý button text assertion is successful  
+2023-01-03 17:41:54,929 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is PASSED   
+2023-01-03 17:41:55,923 INFO  - The scenario 'The user should not be able to login with correct email and null password' started to run  
+2023-01-03 17:41:57,919 INFO  - URL is opened  
+2023-01-03 17:41:57,919 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:58,000 INFO  - Successfully clicked the element  
+2023-01-03 17:41:58,000 INFO  - Waiting for the element to be visible  
+2023-01-03 17:41:59,097 INFO  - Successfully clicked the element  
+2023-01-03 17:41:59,098 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:01,216 INFO  - Successfully clicked the element  
+2023-01-03 17:42:01,216 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:01,246 INFO  - Successfully got the text of the element  
+2023-01-03 17:42:01,246 INFO  - Login page assertion is successful  
+2023-01-03 17:42:01,247 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:01,314 INFO  - Successfully sent the word  
+2023-01-03 17:42:01,314 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:01,383 INFO  - Successfully clicked the element  
+2023-01-03 17:42:01,384 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:01,427 INFO  - Successfully got the text of the element  
+2023-01-03 17:42:01,427 INFO  - Lütfen þifrenizi giriniz. password text assertion is successful  
+2023-01-03 17:42:01,428 INFO  - The scenario 'The user should not be able to login with correct email and null password' is PASSED   
+2023-01-03 17:42:02,227 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' started to run  
+2023-01-03 17:42:04,213 INFO  - URL is opened  
+2023-01-03 17:42:04,214 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:04,302 INFO  - Successfully clicked the element  
+2023-01-03 17:42:04,302 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:05,377 INFO  - Successfully clicked the element  
+2023-01-03 17:42:05,377 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:07,216 INFO  - Successfully clicked the element  
+2023-01-03 17:42:07,217 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:07,246 INFO  - Successfully got the text of the element  
+2023-01-03 17:42:07,246 INFO  - Login page assertion is successful  
+2023-01-03 17:42:07,247 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:07,432 INFO  - Successfully sent the word  
+2023-01-03 17:42:07,432 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:07,486 INFO  - Successfully sent the word  
+2023-01-03 17:42:07,486 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:07,558 INFO  - Successfully clicked the element  
+2023-01-03 17:42:07,558 INFO  - Waiting for the element to be visible  
+2023-01-03 17:42:08,106 INFO  - Successfully got the text of the element  
+2023-01-03 17:42:08,107 INFO  - E-posta adresiniz ve/veya þifreniz hatalý. email or password text assertion is successful  
+2023-01-03 17:42:08,107 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is PASSED   
+2023-01-03 17:43:42,999 INFO  - The scenario 'asd' started to run  
+2023-01-03 17:43:44,945 INFO  - URL is opened  
+2023-01-03 17:43:44,950 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:45,041 INFO  - Successfully clicked the element  
+2023-01-03 17:43:45,041 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:46,134 INFO  - Successfully clicked the element  
+2023-01-03 17:43:47,480 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:47,596 INFO  - Successfully sent the word  
+2023-01-03 17:43:47,596 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:49,381 INFO  - Successfully clicked the element  
+2023-01-03 17:43:49,389 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 17:43:50,886 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:43:52,856 INFO  - URL is opened  
+2023-01-03 17:43:52,856 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:52,942 INFO  - Successfully clicked the element  
+2023-01-03 17:43:52,943 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:54,033 INFO  - Successfully clicked the element  
+2023-01-03 17:43:54,033 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:55,806 INFO  - Successfully clicked the element  
+2023-01-03 17:43:55,806 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:55,846 INFO  - Successfully got the text of the element  
+2023-01-03 17:43:55,848 INFO  - Login page assertion is successful  
+2023-01-03 17:43:55,848 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:55,917 INFO  - Successfully sent the word  
+2023-01-03 17:43:55,917 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:55,981 INFO  - Successfully sent the word  
+2023-01-03 17:43:55,981 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:56,161 INFO  - Successfully clicked the element  
+2023-01-03 17:43:56,162 INFO  - Waiting for the element to be visible  
+2023-01-03 17:43:58,185 INFO  - Successfully got the text of the element  
+2023-01-03 17:43:58,185 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:43:58,185 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:43:59,000 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 17:44:01,284 INFO  - URL is opened  
+2023-01-03 17:44:01,284 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:01,360 INFO  - Successfully clicked the element  
+2023-01-03 17:44:01,361 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:01,963 INFO  - Successfully clicked the element  
+2023-01-03 17:44:01,964 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:02,094 INFO  - Successfully sent the word  
+2023-01-03 17:44:02,094 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:03,505 INFO  - Successfully clicked the element  
+2023-01-03 17:44:03,546 INFO  - Random number has been generated  
+2023-01-03 17:44:03,818 INFO  - Page is successfully loaded  
+2023-01-03 17:44:03,818 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:14,464 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is failed   
+2023-01-03 17:44:14,464 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is FAILED   
+2023-01-03 17:44:15,367 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-03 17:44:17,315 INFO  - URL is opened  
+2023-01-03 17:44:17,315 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:17,412 INFO  - Successfully clicked the element  
+2023-01-03 17:44:17,412 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:18,496 INFO  - Successfully clicked the element  
+2023-01-03 17:44:18,496 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:18,588 INFO  - Successfully sent the word  
+2023-01-03 17:44:18,589 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:20,770 INFO  - Successfully clicked the element  
+2023-01-03 17:44:20,784 INFO  - Random number has been generated  
+2023-01-03 17:44:20,857 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:31,448 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-03 17:44:31,448 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-03 17:44:32,305 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:44:34,083 INFO  - URL is opened  
+2023-01-03 17:44:34,083 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:34,171 INFO  - Successfully clicked the element  
+2023-01-03 17:44:34,171 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:35,255 INFO  - Successfully clicked the element  
+2023-01-03 17:44:35,255 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:37,320 INFO  - Successfully clicked the element  
+2023-01-03 17:44:37,321 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:37,351 INFO  - Successfully got the text of the element  
+2023-01-03 17:44:37,351 INFO  - Login page assertion is successful  
+2023-01-03 17:44:37,352 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:37,418 INFO  - Successfully sent the word  
+2023-01-03 17:44:37,418 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:37,481 INFO  - Successfully sent the word  
+2023-01-03 17:44:37,481 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:37,541 INFO  - Successfully clicked the element  
+2023-01-03 17:44:37,541 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:39,871 INFO  - Successfully got the text of the element  
+2023-01-03 17:44:39,871 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:44:39,871 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:44:40,717 INFO  - The scenario 'The user should not be able to login with wrong google credentials' started to run  
+2023-01-03 17:44:42,667 INFO  - URL is opened  
+2023-01-03 17:44:42,668 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:42,755 INFO  - Successfully clicked the element  
+2023-01-03 17:44:42,755 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:43,844 INFO  - Successfully clicked the element  
+2023-01-03 17:44:43,845 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:45,914 INFO  - Successfully clicked the element  
+2023-01-03 17:44:45,915 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:45,946 INFO  - Successfully got the text of the element  
+2023-01-03 17:44:45,946 INFO  - Login page assertion is successful  
+2023-01-03 17:44:45,946 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:47,595 INFO  - Successfully clicked the element  
+2023-01-03 17:44:47,602 INFO  - Page is successfully loaded  
+2023-01-03 17:44:47,602 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:47,735 INFO  - Successfully sent the word  
+2023-01-03 17:44:47,736 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:47,791 INFO  - Successfully clicked the element  
+2023-01-03 17:44:47,793 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:48,337 INFO  - Successfully got the text of the element  
+2023-01-03 17:44:48,338 INFO  - Google Hesabýnýz bulunamadý button text assertion is successful  
+2023-01-03 17:44:48,338 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is PASSED   
+2023-01-03 17:44:49,321 INFO  - The scenario 'The user should not be able to login with correct email and null password' started to run  
+2023-01-03 17:44:51,265 INFO  - URL is opened  
+2023-01-03 17:44:51,265 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:51,355 INFO  - Successfully clicked the element  
+2023-01-03 17:44:51,356 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:52,437 INFO  - Successfully clicked the element  
+2023-01-03 17:44:52,438 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:54,186 INFO  - Successfully clicked the element  
+2023-01-03 17:44:54,186 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:54,215 INFO  - Successfully got the text of the element  
+2023-01-03 17:44:54,215 INFO  - Login page assertion is successful  
+2023-01-03 17:44:54,216 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:54,280 INFO  - Successfully sent the word  
+2023-01-03 17:44:54,281 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:54,338 INFO  - Successfully clicked the element  
+2023-01-03 17:44:54,339 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:54,493 INFO  - Successfully got the text of the element  
+2023-01-03 17:44:54,493 INFO  - Lütfen þifrenizi giriniz. password text assertion is successful  
+2023-01-03 17:44:54,493 INFO  - The scenario 'The user should not be able to login with correct email and null password' is PASSED   
+2023-01-03 17:44:55,284 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' started to run  
+2023-01-03 17:44:57,241 INFO  - URL is opened  
+2023-01-03 17:44:57,242 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:57,327 INFO  - Successfully clicked the element  
+2023-01-03 17:44:57,327 INFO  - Waiting for the element to be visible  
+2023-01-03 17:44:58,412 INFO  - Successfully clicked the element  
+2023-01-03 17:44:58,413 INFO  - Waiting for the element to be visible  
+2023-01-03 17:45:00,149 INFO  - Successfully clicked the element  
+2023-01-03 17:45:00,150 INFO  - Waiting for the element to be visible  
+2023-01-03 17:45:00,192 INFO  - Successfully got the text of the element  
+2023-01-03 17:45:00,192 INFO  - Login page assertion is successful  
+2023-01-03 17:45:00,192 INFO  - Waiting for the element to be visible  
+2023-01-03 17:45:00,257 INFO  - Successfully sent the word  
+2023-01-03 17:45:00,257 INFO  - Waiting for the element to be visible  
+2023-01-03 17:45:00,310 INFO  - Successfully sent the word  
+2023-01-03 17:45:00,310 INFO  - Waiting for the element to be visible  
+2023-01-03 17:45:00,488 INFO  - Successfully clicked the element  
+2023-01-03 17:45:00,489 INFO  - Waiting for the element to be visible  
+2023-01-03 17:45:01,036 INFO  - Successfully got the text of the element  
+2023-01-03 17:45:01,036 INFO  - E-posta adresiniz ve/veya þifreniz hatalý. email or password text assertion is successful  
+2023-01-03 17:45:01,036 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is PASSED   
+2023-01-03 17:56:21,852 INFO  - The scenario 'asd' started to run  
+2023-01-03 17:56:24,180 INFO  - URL is opened  
+2023-01-03 17:56:24,185 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:24,260 INFO  - Successfully clicked the element  
+2023-01-03 17:56:24,261 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:24,844 INFO  - Successfully clicked the element  
+2023-01-03 17:56:26,290 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:26,399 INFO  - Successfully sent the word  
+2023-01-03 17:56:26,399 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:28,343 INFO  - Successfully clicked the element  
+2023-01-03 17:56:28,352 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 17:56:29,166 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:56:31,250 INFO  - URL is opened  
+2023-01-03 17:56:31,251 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:31,383 INFO  - Successfully clicked the element  
+2023-01-03 17:56:31,383 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:32,488 INFO  - Successfully clicked the element  
+2023-01-03 17:56:32,489 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:34,446 INFO  - Successfully clicked the element  
+2023-01-03 17:56:34,447 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:34,479 INFO  - Successfully got the text of the element  
+2023-01-03 17:56:34,480 INFO  - Login page assertion is successful  
+2023-01-03 17:56:34,481 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:34,677 INFO  - Successfully sent the word  
+2023-01-03 17:56:34,677 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:34,745 INFO  - Successfully sent the word  
+2023-01-03 17:56:34,745 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:34,809 INFO  - Successfully clicked the element  
+2023-01-03 17:56:34,810 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:37,156 INFO  - Successfully got the text of the element  
+2023-01-03 17:56:37,156 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:56:37,157 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:56:38,014 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 17:56:40,340 INFO  - URL is opened  
+2023-01-03 17:56:40,340 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:40,402 INFO  - Successfully clicked the element  
+2023-01-03 17:56:40,402 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:40,993 INFO  - Successfully clicked the element  
+2023-01-03 17:56:40,993 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:41,091 INFO  - Successfully sent the word  
+2023-01-03 17:56:41,092 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:43,107 INFO  - Successfully clicked the element  
+2023-01-03 17:56:43,243 INFO  - Random number has been generated  
+2023-01-03 17:56:43,424 INFO  - Page is successfully loaded  
+2023-01-03 17:56:43,424 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:54,153 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is failed   
+2023-01-03 17:56:54,153 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is FAILED   
+2023-01-03 17:56:55,042 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-03 17:56:56,975 INFO  - URL is opened  
+2023-01-03 17:56:56,975 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:57,061 INFO  - Successfully clicked the element  
+2023-01-03 17:56:57,061 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:58,144 INFO  - Successfully clicked the element  
+2023-01-03 17:56:58,144 INFO  - Waiting for the element to be visible  
+2023-01-03 17:56:58,238 INFO  - Successfully sent the word  
+2023-01-03 17:56:58,238 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:01,335 INFO  - Successfully clicked the element  
+2023-01-03 17:57:01,349 INFO  - Random number has been generated  
+2023-01-03 17:57:01,427 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:11,674 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-03 17:57:11,674 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-03 17:57:12,457 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:57:14,706 INFO  - URL is opened  
+2023-01-03 17:57:14,706 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:14,766 INFO  - Successfully clicked the element  
+2023-01-03 17:57:14,766 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:15,364 INFO  - Successfully clicked the element  
+2023-01-03 17:57:15,365 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:16,916 INFO  - Successfully clicked the element  
+2023-01-03 17:57:16,917 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:16,947 INFO  - Successfully got the text of the element  
+2023-01-03 17:57:16,947 INFO  - Login page assertion is successful  
+2023-01-03 17:57:16,947 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:17,019 INFO  - Successfully sent the word  
+2023-01-03 17:57:17,019 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:17,192 INFO  - Successfully sent the word  
+2023-01-03 17:57:17,192 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:17,250 INFO  - Successfully clicked the element  
+2023-01-03 17:57:17,251 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:19,558 INFO  - Successfully got the text of the element  
+2023-01-03 17:57:19,558 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:57:19,558 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:57:20,397 INFO  - The scenario 'The user should not be able to login with wrong google credentials' started to run  
+2023-01-03 17:57:22,208 INFO  - URL is opened  
+2023-01-03 17:57:22,208 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:22,289 INFO  - Successfully clicked the element  
+2023-01-03 17:57:22,289 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:23,365 INFO  - Successfully clicked the element  
+2023-01-03 17:57:23,365 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:25,166 INFO  - Successfully clicked the element  
+2023-01-03 17:57:25,166 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:25,198 INFO  - Successfully got the text of the element  
+2023-01-03 17:57:25,198 INFO  - Login page assertion is successful  
+2023-01-03 17:57:25,198 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:26,138 INFO  - Successfully clicked the element  
+2023-01-03 17:57:26,145 INFO  - Page is successfully loaded  
+2023-01-03 17:57:26,145 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:26,295 INFO  - Successfully sent the word  
+2023-01-03 17:57:26,295 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:26,375 INFO  - Successfully clicked the element  
+2023-01-03 17:57:26,377 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:26,939 INFO  - Successfully got the text of the element  
+2023-01-03 17:57:26,939 INFO  - Google Hesabýnýz bulunamadý button text assertion is successful  
+2023-01-03 17:57:26,940 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is PASSED   
+2023-01-03 17:57:27,929 INFO  - The scenario 'The user should not be able to login with correct email and null password' started to run  
+2023-01-03 17:57:29,807 INFO  - URL is opened  
+2023-01-03 17:57:29,807 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:29,889 INFO  - Successfully clicked the element  
+2023-01-03 17:57:29,890 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:30,971 INFO  - Successfully clicked the element  
+2023-01-03 17:57:30,971 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:32,903 INFO  - Successfully clicked the element  
+2023-01-03 17:57:32,904 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:33,046 INFO  - Successfully got the text of the element  
+2023-01-03 17:57:33,046 INFO  - Login page assertion is successful  
+2023-01-03 17:57:33,046 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:33,119 INFO  - Successfully sent the word  
+2023-01-03 17:57:33,119 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:33,195 INFO  - Successfully clicked the element  
+2023-01-03 17:57:33,196 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:33,241 INFO  - Successfully got the text of the element  
+2023-01-03 17:57:33,241 INFO  - Lütfen þifrenizi giriniz. password text assertion is successful  
+2023-01-03 17:57:33,241 INFO  - The scenario 'The user should not be able to login with correct email and null password' is PASSED   
+2023-01-03 17:57:34,132 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' started to run  
+2023-01-03 17:57:36,472 INFO  - URL is opened  
+2023-01-03 17:57:36,472 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:36,533 INFO  - Successfully clicked the element  
+2023-01-03 17:57:36,533 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:37,096 INFO  - Successfully clicked the element  
+2023-01-03 17:57:37,096 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:38,838 INFO  - Successfully clicked the element  
+2023-01-03 17:57:38,839 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:38,870 INFO  - Successfully got the text of the element  
+2023-01-03 17:57:38,870 INFO  - Login page assertion is successful  
+2023-01-03 17:57:38,870 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:38,961 INFO  - Successfully sent the word  
+2023-01-03 17:57:38,962 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:39,134 INFO  - Successfully sent the word  
+2023-01-03 17:57:39,134 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:39,201 INFO  - Successfully clicked the element  
+2023-01-03 17:57:39,202 INFO  - Waiting for the element to be visible  
+2023-01-03 17:57:39,762 INFO  - Successfully got the text of the element  
+2023-01-03 17:57:39,762 INFO  - E-posta adresiniz ve/veya þifreniz hatalý. email or password text assertion is successful  
+2023-01-03 17:57:39,762 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is PASSED   
+2023-01-03 17:58:04,954 INFO  - The scenario 'asd' started to run  
+2023-01-03 17:58:07,239 INFO  - URL is opened  
+2023-01-03 17:58:07,245 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:07,319 INFO  - Successfully clicked the element  
+2023-01-03 17:58:07,319 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:07,902 INFO  - Successfully clicked the element  
+2023-01-03 17:58:09,257 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:09,371 INFO  - Successfully sent the word  
+2023-01-03 17:58:09,371 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:11,533 INFO  - Successfully clicked the element  
+2023-01-03 17:58:11,542 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 17:58:12,383 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:58:14,265 INFO  - URL is opened  
+2023-01-03 17:58:14,265 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:14,365 INFO  - Successfully clicked the element  
+2023-01-03 17:58:14,365 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:15,472 INFO  - Successfully clicked the element  
+2023-01-03 17:58:15,473 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:17,389 INFO  - Successfully clicked the element  
+2023-01-03 17:58:17,389 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:17,427 INFO  - Successfully got the text of the element  
+2023-01-03 17:58:17,429 INFO  - Login page assertion is successful  
+2023-01-03 17:58:17,429 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:17,502 INFO  - Successfully sent the word  
+2023-01-03 17:58:17,503 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:17,724 INFO  - Successfully sent the word  
+2023-01-03 17:58:17,724 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:17,808 INFO  - Successfully clicked the element  
+2023-01-03 17:58:17,809 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:20,195 INFO  - Successfully got the text of the element  
+2023-01-03 17:58:20,195 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:58:20,196 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:58:21,105 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 17:58:23,080 INFO  - URL is opened  
+2023-01-03 17:58:23,080 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:23,167 INFO  - Successfully clicked the element  
+2023-01-03 17:58:23,167 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:24,246 INFO  - Successfully clicked the element  
+2023-01-03 17:58:24,247 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:24,349 INFO  - Successfully sent the word  
+2023-01-03 17:58:24,349 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:26,180 INFO  - Successfully clicked the element  
+2023-01-03 17:58:26,201 INFO  - Random number has been generated  
+2023-01-03 17:58:26,467 INFO  - Page is successfully loaded  
+2023-01-03 17:58:26,467 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:37,219 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is failed   
+2023-01-03 17:58:37,219 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is FAILED   
+2023-01-03 17:58:38,155 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-03 17:58:40,125 INFO  - URL is opened  
+2023-01-03 17:58:40,126 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:40,210 INFO  - Successfully clicked the element  
+2023-01-03 17:58:40,210 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:41,292 INFO  - Successfully clicked the element  
+2023-01-03 17:58:41,293 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:41,388 INFO  - Successfully sent the word  
+2023-01-03 17:58:41,388 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:43,537 INFO  - Successfully clicked the element  
+2023-01-03 17:58:43,553 INFO  - Random number has been generated  
+2023-01-03 17:58:43,635 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:54,280 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-03 17:58:54,280 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-03 17:58:55,118 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 17:58:57,021 INFO  - URL is opened  
+2023-01-03 17:58:57,022 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:57,108 INFO  - Successfully clicked the element  
+2023-01-03 17:58:57,108 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:58,194 INFO  - Successfully clicked the element  
+2023-01-03 17:58:58,195 INFO  - Waiting for the element to be visible  
+2023-01-03 17:58:59,982 INFO  - Successfully clicked the element  
+2023-01-03 17:58:59,983 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:00,016 INFO  - Successfully got the text of the element  
+2023-01-03 17:59:00,016 INFO  - Login page assertion is successful  
+2023-01-03 17:59:00,017 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:00,085 INFO  - Successfully sent the word  
+2023-01-03 17:59:00,086 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:00,269 INFO  - Successfully sent the word  
+2023-01-03 17:59:00,270 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:00,328 INFO  - Successfully clicked the element  
+2023-01-03 17:59:00,328 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:02,728 INFO  - Successfully got the text of the element  
+2023-01-03 17:59:02,728 INFO  - Hesabim button text assertion is successful  
+2023-01-03 17:59:02,729 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 17:59:03,566 INFO  - The scenario 'The user should not be able to login with wrong google credentials' started to run  
+2023-01-03 17:59:05,485 INFO  - URL is opened  
+2023-01-03 17:59:05,485 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:05,571 INFO  - Successfully clicked the element  
+2023-01-03 17:59:05,571 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:07,170 INFO  - Successfully clicked the element  
+2023-01-03 17:59:07,171 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:09,037 INFO  - Successfully clicked the element  
+2023-01-03 17:59:09,038 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:09,065 INFO  - Successfully got the text of the element  
+2023-01-03 17:59:09,065 INFO  - Login page assertion is successful  
+2023-01-03 17:59:09,066 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:10,237 INFO  - Successfully clicked the element  
+2023-01-03 17:59:10,244 INFO  - Page is successfully loaded  
+2023-01-03 17:59:10,245 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:10,390 INFO  - Successfully sent the word  
+2023-01-03 17:59:10,390 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:10,445 INFO  - Successfully clicked the element  
+2023-01-03 17:59:10,447 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:10,994 INFO  - Successfully got the text of the element  
+2023-01-03 17:59:10,994 INFO  - Google Hesabýnýz bulunamadý button text assertion is successful  
+2023-01-03 17:59:10,994 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is PASSED   
+2023-01-03 17:59:11,990 INFO  - The scenario 'The user should not be able to login with correct email and null password' started to run  
+2023-01-03 17:59:14,197 INFO  - URL is opened  
+2023-01-03 17:59:14,198 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:14,264 INFO  - Successfully clicked the element  
+2023-01-03 17:59:14,264 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:14,860 INFO  - Successfully clicked the element  
+2023-01-03 17:59:14,861 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:16,398 INFO  - Successfully clicked the element  
+2023-01-03 17:59:16,399 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:16,427 INFO  - Successfully got the text of the element  
+2023-01-03 17:59:16,427 INFO  - Login page assertion is successful  
+2023-01-03 17:59:16,427 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:16,495 INFO  - Successfully sent the word  
+2023-01-03 17:59:16,495 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:16,562 INFO  - Successfully clicked the element  
+2023-01-03 17:59:16,563 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:16,722 INFO  - Successfully got the text of the element  
+2023-01-03 17:59:16,722 INFO  - Lütfen þifrenizi giriniz. password text assertion is successful  
+2023-01-03 17:59:16,723 INFO  - The scenario 'The user should not be able to login with correct email and null password' is PASSED   
+2023-01-03 17:59:17,560 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' started to run  
+2023-01-03 17:59:19,844 INFO  - URL is opened  
+2023-01-03 17:59:19,844 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:19,907 INFO  - Successfully clicked the element  
+2023-01-03 17:59:19,907 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:20,473 INFO  - Successfully clicked the element  
+2023-01-03 17:59:20,473 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:22,177 INFO  - Successfully clicked the element  
+2023-01-03 17:59:22,177 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:22,208 INFO  - Successfully got the text of the element  
+2023-01-03 17:59:22,208 INFO  - Login page assertion is successful  
+2023-01-03 17:59:22,209 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:22,275 INFO  - Successfully sent the word  
+2023-01-03 17:59:22,275 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:22,331 INFO  - Successfully sent the word  
+2023-01-03 17:59:22,331 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:22,504 INFO  - Successfully clicked the element  
+2023-01-03 17:59:22,504 INFO  - Waiting for the element to be visible  
+2023-01-03 17:59:23,051 INFO  - Successfully got the text of the element  
+2023-01-03 17:59:23,051 INFO  - E-posta adresiniz ve/veya þifreniz hatalý. email or password text assertion is successful  
+2023-01-03 17:59:23,051 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is PASSED   
+2023-01-03 18:01:57,498 INFO  - The scenario 'asd' started to run  
+2023-01-03 18:01:59,834 INFO  - URL is opened  
+2023-01-03 18:01:59,840 INFO  - Waiting for the element to be visible  
+2023-01-03 18:01:59,916 INFO  - Successfully clicked the element  
+2023-01-03 18:01:59,916 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:00,490 INFO  - Successfully clicked the element  
+2023-01-03 18:02:01,911 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:02,023 INFO  - Successfully sent the word  
+2023-01-03 18:02:02,023 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:03,805 INFO  - Successfully clicked the element  
+2023-01-03 18:02:03,814 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 18:02:04,719 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 18:02:14,492 INFO  - URL is opened  
+2023-01-03 18:02:14,492 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:14,579 INFO  - Successfully clicked the element  
+2023-01-03 18:02:14,580 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:14,646 INFO  - Successfully clicked the element  
+2023-01-03 18:02:14,647 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:16,742 INFO  - Successfully clicked the element  
+2023-01-03 18:02:16,743 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:16,775 INFO  - Successfully got the text of the element  
+2023-01-03 18:02:16,776 INFO  - Login page assertion is successful  
+2023-01-03 18:02:16,777 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:16,846 INFO  - Successfully sent the word  
+2023-01-03 18:02:16,846 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:16,913 INFO  - Successfully sent the word  
+2023-01-03 18:02:16,913 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:16,990 INFO  - Successfully clicked the element  
+2023-01-03 18:02:16,992 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:19,250 INFO  - Successfully got the text of the element  
+2023-01-03 18:02:19,251 INFO  - Hesabim button text assertion is successful  
+2023-01-03 18:02:19,251 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 18:02:20,124 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 18:02:22,474 INFO  - URL is opened  
+2023-01-03 18:02:22,474 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:22,542 INFO  - Successfully clicked the element  
+2023-01-03 18:02:22,542 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:23,134 INFO  - Successfully clicked the element  
+2023-01-03 18:02:23,134 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:23,265 INFO  - Successfully sent the word  
+2023-01-03 18:02:23,265 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:24,728 INFO  - Successfully clicked the element  
+2023-01-03 18:02:24,761 INFO  - Random number has been generated  
+2023-01-03 18:02:24,859 INFO  - Page is successfully loaded  
+2023-01-03 18:02:24,860 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:35,478 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is failed   
+2023-01-03 18:02:35,478 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is FAILED   
+2023-01-03 18:02:36,335 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-03 18:02:38,283 INFO  - URL is opened  
+2023-01-03 18:02:38,283 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:38,372 INFO  - Successfully clicked the element  
+2023-01-03 18:02:38,372 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:39,452 INFO  - Successfully clicked the element  
+2023-01-03 18:02:39,453 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:39,548 INFO  - Successfully sent the word  
+2023-01-03 18:02:39,548 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:41,452 INFO  - Successfully clicked the element  
+2023-01-03 18:02:41,586 INFO  - Random number has been generated  
+2023-01-03 18:02:41,666 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:52,271 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-03 18:02:52,271 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-03 18:02:53,126 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 18:02:55,075 INFO  - URL is opened  
+2023-01-03 18:02:55,075 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:55,163 INFO  - Successfully clicked the element  
+2023-01-03 18:02:55,163 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:56,251 INFO  - Successfully clicked the element  
+2023-01-03 18:02:56,251 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:57,999 INFO  - Successfully clicked the element  
+2023-01-03 18:02:57,999 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:58,031 INFO  - Successfully got the text of the element  
+2023-01-03 18:02:58,031 INFO  - Login page assertion is successful  
+2023-01-03 18:02:58,031 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:58,097 INFO  - Successfully sent the word  
+2023-01-03 18:02:58,098 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:58,161 INFO  - Successfully sent the word  
+2023-01-03 18:02:58,162 INFO  - Waiting for the element to be visible  
+2023-01-03 18:02:58,342 INFO  - Successfully clicked the element  
+2023-01-03 18:02:58,343 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:00,766 INFO  - Successfully got the text of the element  
+2023-01-03 18:03:00,767 INFO  - Hesabim button text assertion is successful  
+2023-01-03 18:03:00,767 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 18:03:01,580 INFO  - The scenario 'The user should not be able to login with wrong google credentials' started to run  
+2023-01-03 18:03:03,520 INFO  - URL is opened  
+2023-01-03 18:03:03,521 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:03,607 INFO  - Successfully clicked the element  
+2023-01-03 18:03:03,607 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:04,692 INFO  - Successfully clicked the element  
+2023-01-03 18:03:04,692 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:06,580 INFO  - Successfully clicked the element  
+2023-01-03 18:03:06,581 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:06,610 INFO  - Successfully got the text of the element  
+2023-01-03 18:03:06,610 INFO  - Login page assertion is successful  
+2023-01-03 18:03:06,611 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:07,675 INFO  - Successfully clicked the element  
+2023-01-03 18:03:07,681 INFO  - Page is successfully loaded  
+2023-01-03 18:03:07,681 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:07,835 INFO  - Successfully sent the word  
+2023-01-03 18:03:07,835 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:07,894 INFO  - Successfully clicked the element  
+2023-01-03 18:03:07,895 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:08,441 INFO  - Successfully got the text of the element  
+2023-01-03 18:03:08,441 INFO  - Google Hesabýnýz bulunamadý button text assertion is successful  
+2023-01-03 18:03:08,441 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is PASSED   
+2023-01-03 18:03:09,420 INFO  - The scenario 'The user should not be able to login with correct email and null password' started to run  
+2023-01-03 18:03:11,660 INFO  - URL is opened  
+2023-01-03 18:03:11,660 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:11,727 INFO  - Successfully clicked the element  
+2023-01-03 18:03:11,728 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:12,319 INFO  - Successfully clicked the element  
+2023-01-03 18:03:12,320 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:13,890 INFO  - Successfully clicked the element  
+2023-01-03 18:03:13,891 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:13,919 INFO  - Successfully got the text of the element  
+2023-01-03 18:03:13,919 INFO  - Login page assertion is successful  
+2023-01-03 18:03:13,919 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:13,989 INFO  - Successfully sent the word  
+2023-01-03 18:03:13,989 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:14,045 INFO  - Successfully clicked the element  
+2023-01-03 18:03:14,045 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:14,201 INFO  - Successfully got the text of the element  
+2023-01-03 18:03:14,201 INFO  - Lütfen þifrenizi giriniz. password text assertion is successful  
+2023-01-03 18:03:14,202 INFO  - The scenario 'The user should not be able to login with correct email and null password' is PASSED   
+2023-01-03 18:03:14,998 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' started to run  
+2023-01-03 18:03:16,806 INFO  - URL is opened  
+2023-01-03 18:03:16,806 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:16,893 INFO  - Successfully clicked the element  
+2023-01-03 18:03:16,893 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:17,959 INFO  - Successfully clicked the element  
+2023-01-03 18:03:17,959 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:19,703 INFO  - Successfully clicked the element  
+2023-01-03 18:03:19,703 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:19,734 INFO  - Successfully got the text of the element  
+2023-01-03 18:03:19,734 INFO  - Login page assertion is successful  
+2023-01-03 18:03:19,734 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:19,800 INFO  - Successfully sent the word  
+2023-01-03 18:03:19,800 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:19,852 INFO  - Successfully sent the word  
+2023-01-03 18:03:19,852 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:20,045 INFO  - Successfully clicked the element  
+2023-01-03 18:03:20,046 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:20,611 INFO  - Successfully got the text of the element  
+2023-01-03 18:03:20,611 INFO  - E-posta adresiniz ve/veya þifreniz hatalý. email or password text assertion is successful  
+2023-01-03 18:03:20,611 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is PASSED   
+2023-01-03 18:03:51,682 INFO  - The scenario 'asd' started to run  
+2023-01-03 18:03:53,552 INFO  - URL is opened  
+2023-01-03 18:03:53,559 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:53,663 INFO  - Successfully clicked the element  
+2023-01-03 18:03:53,664 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:54,761 INFO  - Successfully clicked the element  
+2023-01-03 18:03:56,262 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:56,372 INFO  - Successfully sent the word  
+2023-01-03 18:03:56,372 INFO  - Waiting for the element to be visible  
+2023-01-03 18:03:58,402 INFO  - Successfully clicked the element  
+2023-01-03 18:03:58,409 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 18:03:59,269 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 18:04:01,137 INFO  - URL is opened  
+2023-01-03 18:04:01,137 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:01,219 INFO  - Successfully clicked the element  
+2023-01-03 18:04:01,219 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:02,307 INFO  - Successfully clicked the element  
+2023-01-03 18:04:02,308 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:10,016 INFO  - Successfully clicked the element  
+2023-01-03 18:04:10,017 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:10,047 INFO  - Successfully got the text of the element  
+2023-01-03 18:04:10,048 INFO  - Login page assertion is successful  
+2023-01-03 18:04:10,049 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:10,224 INFO  - Successfully sent the word  
+2023-01-03 18:04:10,224 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:10,283 INFO  - Successfully sent the word  
+2023-01-03 18:04:10,283 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:10,345 INFO  - Successfully clicked the element  
+2023-01-03 18:04:10,345 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:13,739 INFO  - Successfully got the text of the element  
+2023-01-03 18:04:13,739 INFO  - Hesabim button text assertion is successful  
+2023-01-03 18:04:13,739 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 18:04:14,703 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 18:04:16,619 INFO  - URL is opened  
+2023-01-03 18:04:16,619 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:16,703 INFO  - Successfully clicked the element  
+2023-01-03 18:04:16,703 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:17,793 INFO  - Successfully clicked the element  
+2023-01-03 18:04:17,793 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:17,892 INFO  - Successfully sent the word  
+2023-01-03 18:04:17,892 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:19,662 INFO  - Successfully clicked the element  
+2023-01-03 18:04:19,681 INFO  - Random number has been generated  
+2023-01-03 18:04:19,915 INFO  - Page is successfully loaded  
+2023-01-03 18:04:19,916 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:30,260 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is failed   
+2023-01-03 18:04:30,261 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is FAILED   
+2023-01-03 18:04:31,104 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-03 18:04:33,082 INFO  - URL is opened  
+2023-01-03 18:04:33,082 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:33,172 INFO  - Successfully clicked the element  
+2023-01-03 18:04:33,172 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:34,249 INFO  - Successfully clicked the element  
+2023-01-03 18:04:34,250 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:34,343 INFO  - Successfully sent the word  
+2023-01-03 18:04:34,343 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:36,180 INFO  - Successfully clicked the element  
+2023-01-03 18:04:36,213 INFO  - Random number has been generated  
+2023-01-03 18:04:37,458 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-03 18:04:37,458 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-03 18:04:38,298 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 18:04:40,223 INFO  - URL is opened  
+2023-01-03 18:04:40,223 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:40,316 INFO  - Successfully clicked the element  
+2023-01-03 18:04:40,316 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:41,393 INFO  - Successfully clicked the element  
+2023-01-03 18:04:41,394 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:43,200 INFO  - Successfully clicked the element  
+2023-01-03 18:04:43,201 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:43,231 INFO  - Successfully got the text of the element  
+2023-01-03 18:04:43,232 INFO  - Login page assertion is successful  
+2023-01-03 18:04:43,232 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:43,297 INFO  - Successfully sent the word  
+2023-01-03 18:04:43,297 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:43,363 INFO  - Successfully sent the word  
+2023-01-03 18:04:43,363 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:43,553 INFO  - Successfully clicked the element  
+2023-01-03 18:04:43,553 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:45,948 INFO  - Successfully got the text of the element  
+2023-01-03 18:04:45,948 INFO  - Hesabim button text assertion is successful  
+2023-01-03 18:04:45,948 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 18:04:46,774 INFO  - The scenario 'The user should not be able to login with wrong google credentials' started to run  
+2023-01-03 18:04:48,787 INFO  - URL is opened  
+2023-01-03 18:04:48,787 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:48,897 INFO  - Successfully clicked the element  
+2023-01-03 18:04:48,897 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:49,970 INFO  - Successfully clicked the element  
+2023-01-03 18:04:49,970 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:51,762 INFO  - Successfully clicked the element  
+2023-01-03 18:04:51,763 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:51,793 INFO  - Successfully got the text of the element  
+2023-01-03 18:04:51,793 INFO  - Login page assertion is successful  
+2023-01-03 18:04:51,793 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:53,820 INFO  - Successfully clicked the element  
+2023-01-03 18:04:53,823 INFO  - Page is successfully loaded  
+2023-01-03 18:04:53,823 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:53,969 INFO  - Successfully sent the word  
+2023-01-03 18:04:53,969 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:54,029 INFO  - Successfully clicked the element  
+2023-01-03 18:04:54,030 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:54,566 INFO  - Successfully got the text of the element  
+2023-01-03 18:04:54,567 INFO  - Google Hesabýnýz bulunamadý button text assertion is successful  
+2023-01-03 18:04:54,567 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is PASSED   
+2023-01-03 18:04:55,630 INFO  - The scenario 'The user should not be able to login with correct email and null password' started to run  
+2023-01-03 18:04:57,904 INFO  - URL is opened  
+2023-01-03 18:04:57,904 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:57,971 INFO  - Successfully clicked the element  
+2023-01-03 18:04:57,971 INFO  - Waiting for the element to be visible  
+2023-01-03 18:04:58,534 INFO  - Successfully clicked the element  
+2023-01-03 18:04:58,534 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:00,483 INFO  - Successfully clicked the element  
+2023-01-03 18:05:00,483 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:00,512 INFO  - Successfully got the text of the element  
+2023-01-03 18:05:00,512 INFO  - Login page assertion is successful  
+2023-01-03 18:05:00,512 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:00,735 INFO  - Successfully sent the word  
+2023-01-03 18:05:00,736 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:00,849 INFO  - Successfully clicked the element  
+2023-01-03 18:05:00,850 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:00,902 INFO  - Successfully got the text of the element  
+2023-01-03 18:05:00,902 INFO  - Lütfen þifrenizi giriniz. password text assertion is successful  
+2023-01-03 18:05:00,903 INFO  - The scenario 'The user should not be able to login with correct email and null password' is PASSED   
+2023-01-03 18:05:01,711 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' started to run  
+2023-01-03 18:05:03,677 INFO  - URL is opened  
+2023-01-03 18:05:03,677 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:03,767 INFO  - Successfully clicked the element  
+2023-01-03 18:05:03,768 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:04,854 INFO  - Successfully clicked the element  
+2023-01-03 18:05:04,855 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:06,586 INFO  - Successfully clicked the element  
+2023-01-03 18:05:06,587 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:06,620 INFO  - Successfully got the text of the element  
+2023-01-03 18:05:06,620 INFO  - Login page assertion is successful  
+2023-01-03 18:05:06,620 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:06,700 INFO  - Successfully sent the word  
+2023-01-03 18:05:06,700 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:06,909 INFO  - Successfully sent the word  
+2023-01-03 18:05:06,909 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:06,977 INFO  - Successfully clicked the element  
+2023-01-03 18:05:06,977 INFO  - Waiting for the element to be visible  
+2023-01-03 18:05:07,532 INFO  - Successfully got the text of the element  
+2023-01-03 18:05:07,533 INFO  - E-posta adresiniz ve/veya þifreniz hatalý. email or password text assertion is successful  
+2023-01-03 18:05:07,533 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is PASSED   
+2023-01-03 18:06:44,287 INFO  - The scenario 'asd' started to run  
+2023-01-03 18:06:46,662 INFO  - URL is opened  
+2023-01-03 18:06:46,664 INFO  - Waiting for the element to be visible  
+2023-01-03 18:06:46,756 INFO  - Successfully clicked the element  
+2023-01-03 18:06:46,756 INFO  - Waiting for the element to be visible  
+2023-01-03 18:06:47,363 INFO  - Successfully clicked the element  
+2023-01-03 18:06:48,799 INFO  - Waiting for the element to be visible  
+2023-01-03 18:06:48,910 INFO  - Successfully sent the word  
+2023-01-03 18:06:48,910 INFO  - Waiting for the element to be visible  
+2023-01-03 18:06:51,274 INFO  - Successfully clicked the element  
+2023-01-03 18:06:51,280 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 18:06:52,140 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 18:06:54,020 INFO  - URL is opened  
+2023-01-03 18:06:54,020 INFO  - Waiting for the element to be visible  
+2023-01-03 18:06:54,118 INFO  - Successfully clicked the element  
+2023-01-03 18:06:54,119 INFO  - Waiting for the element to be visible  
+2023-01-03 18:06:55,201 INFO  - Successfully clicked the element  
+2023-01-03 18:06:55,202 INFO  - Waiting for the element to be visible  
+2023-01-03 18:06:59,495 INFO  - Successfully clicked the element  
+2023-01-03 18:06:59,496 INFO  - Waiting for the element to be visible  
+2023-01-03 18:07:09,879 INFO  - The scenario 'The user should be able to login with correct credentials' is failed   
+2023-01-03 18:07:09,879 INFO  - The scenario 'The user should be able to login with correct credentials' is FAILED   
+2023-01-03 18:07:10,694 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 18:07:11,540 INFO  - URL is opened  
+2023-01-03 18:07:11,541 INFO  - Waiting for the element to be visible  
+2023-01-03 18:07:48,802 INFO  - The scenario 'asd' started to run  
+2023-01-03 18:07:50,705 INFO  - URL is opened  
+2023-01-03 18:07:50,708 INFO  - Waiting for the element to be visible  
+2023-01-03 18:07:50,808 INFO  - Successfully clicked the element  
+2023-01-03 18:07:50,808 INFO  - Waiting for the element to be visible  
+2023-01-03 18:07:51,900 INFO  - Successfully clicked the element  
+2023-01-03 18:07:53,322 INFO  - Waiting for the element to be visible  
+2023-01-03 18:07:53,447 INFO  - Successfully sent the word  
+2023-01-03 18:07:53,447 INFO  - Waiting for the element to be visible  
+2023-01-03 18:07:55,571 INFO  - Successfully clicked the element  
+2023-01-03 18:07:55,578 INFO  - The scenario 'asd' is PASSED   
+2023-01-03 18:07:56,424 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 18:07:58,371 INFO  - URL is opened  
+2023-01-03 18:07:58,372 INFO  - Waiting for the element to be visible  
+2023-01-03 18:07:58,469 INFO  - Successfully clicked the element  
+2023-01-03 18:07:58,469 INFO  - Waiting for the element to be visible  
+2023-01-03 18:07:59,547 INFO  - Successfully clicked the element  
+2023-01-03 18:07:59,548 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:01,437 INFO  - Successfully clicked the element  
+2023-01-03 18:08:01,438 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:01,470 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:01,471 INFO  - Login page assertion is successful  
+2023-01-03 18:08:01,472 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:01,670 INFO  - Successfully sent the word  
+2023-01-03 18:08:01,670 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:01,747 INFO  - Successfully sent the word  
+2023-01-03 18:08:01,747 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:01,811 INFO  - Successfully clicked the element  
+2023-01-03 18:08:01,812 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:04,225 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:04,225 INFO  - Hesabim button text assertion is successful  
+2023-01-03 18:08:04,225 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 18:08:05,031 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' started to run  
+2023-01-03 18:08:06,948 INFO  - URL is opened  
+2023-01-03 18:08:06,948 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:07,032 INFO  - Successfully clicked the element  
+2023-01-03 18:08:07,032 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:08,121 INFO  - Successfully clicked the element  
+2023-01-03 18:08:08,122 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:08,220 INFO  - Successfully sent the word  
+2023-01-03 18:08:08,220 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:10,113 INFO  - Successfully clicked the element  
+2023-01-03 18:08:10,127 INFO  - Random number has been generated  
+2023-01-03 18:08:10,403 INFO  - Page is successfully loaded  
+2023-01-03 18:08:10,403 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:21,021 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is failed   
+2023-01-03 18:08:21,021 INFO  - The scenario 'The user should be able to search for an item then add it to the cart and proceed checkout' is FAILED   
+2023-01-03 18:08:21,859 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' started to run  
+2023-01-03 18:08:23,895 INFO  - URL is opened  
+2023-01-03 18:08:23,895 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:23,987 INFO  - Successfully clicked the element  
+2023-01-03 18:08:23,987 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:25,063 INFO  - Successfully clicked the element  
+2023-01-03 18:08:25,063 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:25,163 INFO  - Successfully sent the word  
+2023-01-03 18:08:25,164 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:27,059 INFO  - Successfully clicked the element  
+2023-01-03 18:08:27,070 INFO  - Random number has been generated  
+2023-01-03 18:08:28,265 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is failed   
+2023-01-03 18:08:28,265 INFO  - The scenario 'The user should be able to search for an item then add it to the cart within search result' is FAILED   
+2023-01-03 18:08:29,168 INFO  - The scenario 'The user should be able to login with correct credentials' started to run  
+2023-01-03 18:08:31,471 INFO  - URL is opened  
+2023-01-03 18:08:31,471 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:31,548 INFO  - Successfully clicked the element  
+2023-01-03 18:08:31,548 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:32,145 INFO  - Successfully clicked the element  
+2023-01-03 18:08:32,145 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:33,790 INFO  - Successfully clicked the element  
+2023-01-03 18:08:33,790 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:33,828 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:33,828 INFO  - Login page assertion is successful  
+2023-01-03 18:08:33,829 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:33,898 INFO  - Successfully sent the word  
+2023-01-03 18:08:33,898 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:34,077 INFO  - Successfully sent the word  
+2023-01-03 18:08:34,077 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:34,136 INFO  - Successfully clicked the element  
+2023-01-03 18:08:34,137 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:36,296 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:36,296 INFO  - Hesabim button text assertion is successful  
+2023-01-03 18:08:36,296 INFO  - The scenario 'The user should be able to login with correct credentials' is PASSED   
+2023-01-03 18:08:37,144 INFO  - The scenario 'The user should not be able to login with wrong google credentials' started to run  
+2023-01-03 18:08:39,096 INFO  - URL is opened  
+2023-01-03 18:08:39,096 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:39,185 INFO  - Successfully clicked the element  
+2023-01-03 18:08:39,185 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:40,265 INFO  - Successfully clicked the element  
+2023-01-03 18:08:40,266 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:42,031 INFO  - Successfully clicked the element  
+2023-01-03 18:08:42,032 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:42,062 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:42,062 INFO  - Login page assertion is successful  
+2023-01-03 18:08:42,063 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:43,154 INFO  - Successfully clicked the element  
+2023-01-03 18:08:43,161 INFO  - Page is successfully loaded  
+2023-01-03 18:08:43,161 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:43,308 INFO  - Successfully sent the word  
+2023-01-03 18:08:43,308 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:43,366 INFO  - Successfully clicked the element  
+2023-01-03 18:08:43,367 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:43,911 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:43,912 INFO  - Google Hesabýnýz bulunamadý button text assertion is successful  
+2023-01-03 18:08:43,912 INFO  - The scenario 'The user should not be able to login with wrong google credentials' is PASSED   
+2023-01-03 18:08:44,916 INFO  - The scenario 'The user should not be able to login with correct email and null password' started to run  
+2023-01-03 18:08:47,241 INFO  - URL is opened  
+2023-01-03 18:08:47,241 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:47,309 INFO  - Successfully clicked the element  
+2023-01-03 18:08:47,309 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:47,881 INFO  - Successfully clicked the element  
+2023-01-03 18:08:47,881 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:49,653 INFO  - Successfully clicked the element  
+2023-01-03 18:08:49,654 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:49,683 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:49,683 INFO  - Login page assertion is successful  
+2023-01-03 18:08:49,683 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:49,753 INFO  - Successfully sent the word  
+2023-01-03 18:08:49,754 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:49,815 INFO  - Successfully clicked the element  
+2023-01-03 18:08:49,816 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:49,986 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:49,987 INFO  - Lütfen þifrenizi giriniz. password text assertion is successful  
+2023-01-03 18:08:49,987 INFO  - The scenario 'The user should not be able to login with correct email and null password' is PASSED   
+2023-01-03 18:08:50,835 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' started to run  
+2023-01-03 18:08:53,126 INFO  - URL is opened  
+2023-01-03 18:08:53,126 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:53,198 INFO  - Successfully clicked the element  
+2023-01-03 18:08:53,198 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:53,766 INFO  - Successfully clicked the element  
+2023-01-03 18:08:53,767 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:55,508 INFO  - Successfully clicked the element  
+2023-01-03 18:08:55,509 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:55,543 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:55,543 INFO  - Login page assertion is successful  
+2023-01-03 18:08:55,543 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:55,623 INFO  - Successfully sent the word  
+2023-01-03 18:08:55,623 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:55,804 INFO  - Successfully sent the word  
+2023-01-03 18:08:55,804 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:55,865 INFO  - Successfully clicked the element  
+2023-01-03 18:08:55,866 INFO  - Waiting for the element to be visible  
+2023-01-03 18:08:56,412 INFO  - Successfully got the text of the element  
+2023-01-03 18:08:56,412 INFO  - E-posta adresiniz ve/veya þifreniz hatalý. email or password text assertion is successful  
+2023-01-03 18:08:56,412 INFO  - The scenario 'The user should not be able to login with correct email and incorrect password' is PASSED   
